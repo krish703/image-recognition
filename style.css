@@ -1,0 +1,57 @@
+body {
+    font-family:Bebas Neue;
+    background-color: blanchedalmond;
+}
+.header_div{
+    background:white;
+    color: #88ff00;
+}
+.header_div img{
+    width:100px;
+}
+.main_div{
+    background: pink;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid red;
+}
+.main_div label{
+    background: white;
+    width: 300px;
+    padding: 10px;
+    margin-top: 15px;
+box-shadow: 5px 5px 15px white;
+}
+#camera,#result{
+    border:2px solid white ;
+    width: 300px;
+    height: 300px;
+    box-shadow: 5px 5px 15px white;
+}
+.main_div button{
+    width: 300px;
+    font-size: 15px;
+    box-shadow: 5px 5px 15px white;
+    border: 1px solid;
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div h4{
+    background: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 15px white;
+}
+.footer_div img{
+    width: 70px;
+}
+.copyright_footer{
+    position: fixed;
+    color:grey;
+    bottom: 0;
+    width: 100%;
+    background-color:white ;
+    line-height: 3;
+    text-align: center;
+}
